@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.galla</groupId>
   <artifactId>galla</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
    <distributionManagement>
   <!--  release version -->
  
@@ -26,6 +26,7 @@
   <scm> 
   <connection>scm:git:/home/hasanhussain//workspace1/gmail/.git </connection>
    <developerConnection>scm:git:/home/hasanhussain//workspace1/gmail/.git </developerConnection>
+    <tag>galla-0.0.1</tag>
   </scm>
  
  
